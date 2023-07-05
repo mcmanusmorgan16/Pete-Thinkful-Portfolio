@@ -11,7 +11,7 @@ html {
   background-color: #eae2b7;
 }
 
-ul, li{
+ul{
   list-style-position: inside;
   text-align: center;
 }
