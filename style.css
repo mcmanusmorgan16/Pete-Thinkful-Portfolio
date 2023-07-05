@@ -19,6 +19,7 @@ ul{
 ol {
 list-style-position: inside;
   text-algin: right;
+  color:#d62828; 
 }
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
