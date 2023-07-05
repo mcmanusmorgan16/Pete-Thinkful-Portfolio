@@ -16,7 +16,7 @@ ul, li{
   text-align: center;
 }
   
-ol, li {
+ol {
 list-style-position: inside;
   text-algin: right;
 }
