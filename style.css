@@ -10,12 +10,12 @@ body {
 html {
   background-color: #eae2b7;
 }
-/*
+
 ul{
   list-style-position: inside;
   text-align: center;
 }
-*/  
+ 
 ol {
 list-style-position: inside;
   text-algin: right;
