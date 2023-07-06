@@ -11,10 +11,10 @@ body {
   
 }
 
-div, nav {
+header, nav {
   text-align: center;
-
 }
+
 article, p{
   text-align: left;
 }
