@@ -1,5 +1,8 @@
 /* The @import rule below imports the Playfair Display and Source Sans Pro fonts into the stylesheet. You don't have to edit this line.*/
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
+html {
+  background-color: #eae2b7;
+}
 
 body {
   color: #003049;
@@ -7,20 +10,25 @@ body {
   padding: 40px;
   
 }
-html {
-  background-color: #eae2b7;
+
+div, nav {
+  text-align: center;
+
+}
+article, p{
+  text-align: left;
 }
 
-ul{
-  list-style-position: inside;
-  text-align: center;
+ul, li{
+  list-style-position:inside;
+  text-align: left
 }
- 
-ol {
+  
+ol, li{
 list-style-position: inside;
-  text-algin: right;
-  color:#d62828; 
+  text-algin: left;
 }
+
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
@@ -77,6 +85,14 @@ hr {
 a:link{
  color: #d62828;
 }
+
+a:visited{
+  color: #d62828;
+}
 a:hover {
   color: #f77f00;
+}
+
+footer, p {
+  text-align: center;
 }
