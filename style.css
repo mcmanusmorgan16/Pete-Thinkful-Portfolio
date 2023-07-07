@@ -10,21 +10,19 @@ body {
   padding: 40px;
   
 }
-
+h4 {
+  text-align: left;
+}
 header, nav {
   text-align: center;
 }
 
-article, p{
-  text-align: left;
-}
-
-ul, li{
+ul {
   list-style-position:inside;
   text-align: left
 }
   
-ol, li{
+ol{
 list-style-position: inside;
   text-algin: left;
 }
