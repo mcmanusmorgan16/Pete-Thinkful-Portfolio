@@ -10,9 +10,7 @@ body {
   padding: 40px;
   
 }
-h4 {
-  text-align: left;
-}
+
 header, nav {
   text-align: center;
 }
@@ -41,6 +39,10 @@ h2 {
 
 h3 {
   font-size: 25px;
+}
+
+h4 {
+  text-align: left;
 }
 
 article {
